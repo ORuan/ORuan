@@ -25,3 +25,6 @@
 <a href="https://github.com/ORuan">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ORuan&show_icons=true&theme=dark&line_height=27" alt="Ruan Pablo Github Stats"/>
 </a>
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ORuan&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORuan&layout=compact&hide_border=true" /></a>
