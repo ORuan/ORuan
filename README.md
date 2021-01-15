@@ -22,6 +22,8 @@
 
 ### :alien: My Github skills:
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/ORuan">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ORuan&show_icons=true&theme=dark&line_height=27" alt="Ruan Pablo Github Stats"/>
 </a>
